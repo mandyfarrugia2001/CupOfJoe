@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: brown;
+    font-family: 'Century Gothic';
+    padding: 1em;
+}
+
+h1 {
+    color: #fff;
+    font-size: 1.5em;
+}
+
+p, .animalList {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+}
+
+#starter {
+    background: rgb(189, 186, 186);
+    font-style: italic;
+    padding: .85em;
+}
+
+.animalList {
+    background: rgb(223, 223, 223);
+    height: 65.6vh;
+    padding: 2em;
+}
+
+.animalList li {
+    margin-bottom: .2em;
+}
+
+footer {
+    background: brown;
+    color: #fff;
+    font-size: .85em;
+    padding: .5em;
+    text-align: center;
+}
